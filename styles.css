@@ -1,0 +1,9 @@
+.minimap {
+  transition: opacity 0.2s ease-in-out;
+  image-rendering: crisp-edges!important;
+  opacity: var(--minimap-opacity, 0.5) !important;
+}
+
+.minimap:hover {
+  opacity: 1 !important;
+}

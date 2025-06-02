@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-minimap",
+  "name": "Minimap",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Adds a VSCode-style minimap to your notes",
+  "author": "Your Name",
+  "isDesktopOnly": true
+}
