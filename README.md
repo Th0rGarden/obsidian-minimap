@@ -6,8 +6,6 @@ A plugin for Obsidian that adds a Visual Studio Code-inspired minimap to markdow
 - **Dynamic Minimap**: Displays a compact, scrollable overview of markdown content with customizable scaling and opacity.
 - **Content Visualization**: Highlights headers, lists, code blocks, images, tables, and embeds with distinct colors.
 - **Interactive Navigation**: Click or drag on the minimap to scroll to specific sections of the document.
-- **Resizable Minimap**: Drag the handle to adjust the minimap width (50-300px).
-- **Context Menu**: Right-click the minimap to adjust scale (10-100%) and opacity (10-100%).
 - **File-Specific Control**: Toggle the minimap for individual notes via a command.
 - **Customizable Settings**: Adjust visibility, colors, line height, text density, and element spacing.
 
