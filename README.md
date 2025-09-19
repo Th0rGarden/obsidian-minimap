@@ -42,4 +42,4 @@ Alternatively, manually install by copying the plugin files to your Obsidian vau
 - Submit pull requests with improvements or bug fixes.
 
 ## License
-MIT License - but please credit the original repo instead of passing it off as your own plugin.
+MIT License - but please credit the original repo instead of passing it off as your own plugin 😑
